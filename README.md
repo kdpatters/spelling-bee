@@ -1,6 +1,6 @@
 # spelling-bee
 
-Finds solutions to the New York Times [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) game.
+Finds solutions to the New York Times' [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) game.
 
 
 ## What is the Spelling Bee game?
